@@ -1,3 +1,3 @@
 # Home
 
-* [Practice](practice/practice.md)
+* [Psychiatric practice](practice/practice.md)
