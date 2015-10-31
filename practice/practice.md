@@ -1,3 +1,3 @@
 # Psychiatric practice
 
-* [Initial consultation](initialConsultation.md)
+* [Initial consultation: ](initialConsultation.md) Coming for an initial consultation
