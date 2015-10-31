@@ -4,5 +4,5 @@
 * [Psychiatric practice](practice/practice.md)
    * [Initial consultation](practice/initialConsultation.md)
 * [Policies](policies/policies.md)
-   * [First visit](policies/First visit)
+   * [First visit](policies/firstVisit.md)
 
