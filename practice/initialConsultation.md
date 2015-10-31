@@ -1,7 +1,7 @@
 ## Appointments
 I want to talk with prospective patients before I make an appointment to see them so I'm certain I feel I can be helpful.
 
-I will talk with anyone about making an initial appointment, but I will insist on talking with the patient before I see him or her. Anyone unwilling to speak with me first is 
+I will talk with anyone about making an initial appointment, but I will insist on talking with the patient before I will see him or her. Anyone unwilling to speak with me first is 
 
 If you would like, you may leave a message on my answering machine, or drop me an email with your contact information.
 
