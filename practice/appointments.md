@@ -1,4 +1,8 @@
-##Appointments
+## Appointments
+I want to talk with prospective patients before I make an appointment to see them because I want to make sure that I feel I can be helpful.
+
+While I am happy to talk with anyone about the process of making an initial appointment, I am almost always going to insist on 
+
 As a rule, unless the patient is a minor, I insist any prospective patients call 
 
 I would prefer to talk with you on the phone before your first appointment so that I can check that I feel that I might be able to help you.
