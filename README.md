@@ -1,7 +1,7 @@
 # Gitbook Starter Kit
 
 ##What?
-This is a starter repo for your gitbook.
+This is a starter repo for your gitbook. 
 You may fork it and get your book started, or clone it and remove the .git folder in the repo to have a fresh start.
 This file serves as the README file for the repository, as well as the introduction to your gitbook!
 
