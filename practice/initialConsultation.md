@@ -1,7 +1,7 @@
 ## Appointments
-I want to talk with prospective patients before I make an appointment to see them so I can be certain I feel I can be helpful.
+I want to talk with prospective patients before I make an appointment to see them so I'm certain I feel I can be helpful.
 
-While I am happy to talk with anyone about the process of making an initial appointment. However, I am almost always going to insist on speaking
+I am happy to talk with anyone about the process of making an initial appointment, but I usually insist on talking the patient.
 
 
 If you would like, you may leave a message on my answering machine, or drop me an email with your contact information.
