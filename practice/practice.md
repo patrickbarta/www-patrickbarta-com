@@ -1,3 +1,3 @@
 #Psychiatric practice
 
-* [Appointments](appointments.md)
+* [Initial consultation](initialConsultation.md)
