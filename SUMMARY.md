@@ -5,7 +5,7 @@
    * [Conflict of interest](practice/conflict_of_interest.md)
    * [Initial consultation](practice/initialConsultation.md)
        * Private insurance
-   * Private insurance
+* Private insurance
 * [Policies](policies/policies.md)
    * [First visit](policies/firstVisit.md)
 
