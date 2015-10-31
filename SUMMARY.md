@@ -2,6 +2,6 @@
 
 * [Home](README.md)
 * [Psychiatric practice](practice/practice.md)
-   * [Appointments](practice/appointments.md)
+   * [Initial consultation](practice/initialConsultation.md)
 * [Policies](policies/policies.md)
 
