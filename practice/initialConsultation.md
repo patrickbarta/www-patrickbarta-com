@@ -5,4 +5,4 @@ I will talk with anyone about making an initial appointment, but I will insist o
 
 If you want to come for a consultation,leave a message on my answering machine or send me an email with your phone number.
 
-If you come for a consultation, please follow the [first visit](policies/firstVisit.md) instructions before you come. If you follow these instructions, you will gain about 20 more minutes for your initial consultation. 
+If you come for a consultation, please follow the [first visit](policies/firstVisit.md) instructions **before you arrive**. If you follow these instructions
