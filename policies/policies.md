@@ -1,3 +1,3 @@
 # Policies
 
-* [First visit](firstVisit.md)
+* [First visit](policies/firstVisit.md)
