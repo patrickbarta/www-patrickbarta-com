@@ -1,3 +1,3 @@
 #Psychiatric practice
 
-[Appointments](./practice/appointments.md)
+[Appointments](practice/appointments.md)
