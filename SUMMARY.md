@@ -3,6 +3,7 @@
 * [Home](README.md)
 * [Psychiatric practice](practice/practice.md)
    * [Conflict of interest](practice/conflict_of_interest.md)
+   * [Private insurance](practice/private_insurance.md)
    * [Initial consultation](practice/initialConsultation.md)
        * [Private insurance](practice/private_insurance.md)
 * Private insurance
