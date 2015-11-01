@@ -18,8 +18,9 @@ I **never** close for bad weather.
 
 ## Contact information
 
-| **Email** | patrickbarta@patrickbarta.com|
-|:-----------|-----------:|
+| Communication |       |
+|:--------| -----:|
+| **Email** | patrickbarta@patrickbarta.com |
 | **Phone** | 443 470 9101|
 | **Fax** | 410 337 8084|
 | **Address** | 101 E Chesapeake Ave, Suite 401, Towson, MD 21286|
