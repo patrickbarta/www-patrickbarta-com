@@ -4,8 +4,8 @@
 ## Contents
 | **Click the link below ...** | ** To learn about ...** |
 |:---------------------|-----------------------:|
-| [Notices](#notices) | notices for current patients|
-| [Psychiatric practice](practice.md) | my practice |
+| [News](#news) | news for current patients|
+| [Practice](practice.md) | my psychiatric practice |
 | [Policies](policies.md) | policies for patients |
 | [Conditions](conditions.md) | mental health conditions |
 | [Treatments](treatments.md) | treatments I offer |
