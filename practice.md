@@ -23,7 +23,7 @@
 [return to top](contents.md)
 
 ## Practice philosopy
-
+[return to top](contents.md)
 
 ## Initial appointment
 
@@ -53,3 +53,5 @@ Unless you are a minor (in which case your parent or guardian is in charge of pr
 I will speak to your insurance company if needed, but I will not release detailed records without your consent. If someone such as a relative calls me, I will call you first before discussing your case with them unless you have previously given me permission.
 
 You should know though, that there are certain situations where these rules don't apply. If you are in an health-threatening situation (such as being in an emergency room), I will discuss whatever aspects of your case I think are necessary so that other doctors can take care of you. If I believe (or someone credible, such as a partner, tells me) that you are in clear and imminent danger of harming yourself or someone else, I will take action to make sure that you and they are protected. Finally, state laws in Maryland require that I disclose your information to the proper authorities if I believe that you have abused a child.
+
+[return to top](contents.md)
