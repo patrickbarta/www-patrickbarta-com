@@ -1,1 +1,3 @@
-{ "plugins": ["mathjax", "-sharing"] }
+{
+    "plugins": ["mathjax", "-sharing"] 
+}
