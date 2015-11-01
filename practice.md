@@ -16,6 +16,7 @@
 | Medicare coverage | [Medicare](#medicare) |
 | Medicaid coverage | [Medicaid](#medicaid) |
 | Privacy protection | [Privacy](#privacy) |
+[return to homepage](README.md#Home)
 
 
 ## Patients
