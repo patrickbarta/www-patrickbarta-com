@@ -1,6 +1,6 @@
 # Title
 
-## contents
+**Table of contents**
 * [Conflict of interest](#conflict-of-interest)
 * [foo](#foo6)
  
