@@ -43,7 +43,7 @@ I am not a member of any HMO network. You must go to one of the providers in the
 I do not participate with Medicaid and they will not pay you anything for my services.
 
 ## Privacy
-My [HIPAA](./media/hipaa.pdf) document details my privacy practices.  In general, I believe that mental health records need to be even more private than most other medical records. I do my best to keep them so.
+My [HIPAA](http://patrickbarta.com/media/hipaa.pdf) document details my privacy practices.  In general, I believe that mental health records need to be even more private than most other medical records. I do my best to keep them so.
 I do take notes on a laptop. All patient information is stored in a locked file cabinet, a secured server, or on a completely encrypted laptop. If my laptop is lost or stolen, none of your private information will be revealed.
 
 Unless you are a minor (in which case your parent or guardian is in charge of privacy issues and records), I will not talk to **anyone else** (this includes other family members) about your case unless you have given me permission.
