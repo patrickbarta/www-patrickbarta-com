@@ -1,4 +1,4 @@
-# Patrick Barta, MD, Phd
+# Patrick Barta, MD, PhD
 ## www.patrickbarta.com
 
 ## Contents
