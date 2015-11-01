@@ -2,19 +2,21 @@
 
 ### Contents
 
-| **Click link below ...** | **For information about ...** |
+| **For information about ...** | **Click link below ...** |
 |:---------------------|:-----------------------| 
-| [Patients](#patients) | patients I see |
-| [Practice philosophy](#practice-philosophy) | how I run my practice |
-| [Initial appointment](#initial-appointment) | making an initial appointment  |
-| [Telepsychiatry](#telepsychiatry) | options for appointments by Skype |
-| [Conflict of interest](#conflict-of-interest) | my conflict of interest policies |
-| [Payment accepted](#payment-accepted) | forms of payment accepted
-| [Private insurance ](#patients) | patients I see |
-| [Patients](#patients) | patients I see |
-| [Patients](#patients) | patients I see |
-| [Patients](#patients) | patients I see |
-| [Patients](#patients) | patients I see |
+| patients I see | [Patients](#patients) |
+| how I run my practice |[Practice philosophy](#practice-philosophy) |
+| making an initial appointment  | [Initial appointment](#initial-appointment) |
+| options for appointments by Skype | [Telepsychiatry](#telepsychiatry) |
+| my conflict of interest policies | [Conflict of interest](#conflict-of-interest) |
+| forms of payment accepted | [Payment accepted](#payment-accepted) |
+| Health maintenance organization (HMO) coverage | [HMO coverage](#hmo-coverage) |
+| Preferred provider organization (PPO) coverage | [PPO coverage](#ppo-coverage) |
+| What your insurance will pay | [Usual, customary and reasonable fees](#usual-customary-and-reasonable-fees) |
+| Medicare coverage | [Medicare](#medicare) |
+| Medicaid coverage | [Medicaid](#medicaid) |
+| Privacy protection | [Privacy](#privacy) |
+
 
 ## Patients
 
@@ -26,12 +28,17 @@
 
 ## Conflict of interest
 
-## Private insurance
+## Payment accepted
 
-## Reasonable and customary fees
+## HMO coverage
 
-## Medicare
+## PPO coverage
+
+## Usual, customary and reasonable fees
+
+## Medicare coverage
 
 ## Medicaid
+I do not participate with Medicaid and they will not pay you anything for my services.
 
 ## Privacy
