@@ -1,6 +1,6 @@
 # Psychiatric practice
 
-## Contents
+### Contents
 
 | **Click link below ...** | **For information about ...** |
 |:---------------------|:-----------------------|
