@@ -13,9 +13,9 @@
 | Health maintenance organization (HMO) coverage | [HMO coverage](#hmo-coverage) |
 | Preferred provider organization (PPO) coverage | [PPO coverage](#ppo-coverage) |
 | What your insurance will pay | [Usual, customary and reasonable fees](#usual-customary-and-reasonable-fees) |
-| Medicare coverage | [Medicare](#medicare) |
-| Medicaid coverage | [Medicaid](#medicaid) |
-| Privacy protection | [Privacy](#privacy) |
+| Medicare coverage | [Medicare](#medicare-coverage) |
+| Medicaid coverage | [Medicaid](#medicaid-coverage) |
+| Privacy protection | [Privacy](#privacy-practices) |
 [return to homepage](README.md)
 
 
@@ -67,7 +67,7 @@ I do not participate with Medicaid and they will not pay you anything for my ser
 
 [return to table of contents](#table-of-contents)
 
-## Privacy
+## Privacy practices
 My [HIPAA](http://patrickbarta.com/media/hipaa.pdf) document details my privacy practices.  In general, I believe that mental health records need to be even more private than most other medical records. I do my best to keep them so.
 I do take notes on a laptop. All patient information is stored in a locked file cabinet, a secured server, or on a completely encrypted laptop. If my laptop is lost or stolen, none of your private information will be revealed.
 
