@@ -7,3 +7,5 @@
 | baz | [foo](practice.md) |
 
 [return to homepage](README.md)
+
+<!-- toc -->
