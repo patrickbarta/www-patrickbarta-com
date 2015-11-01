@@ -1,1 +1,0 @@
-* [HIPAA](hipaa.pdf)
