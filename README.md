@@ -2,7 +2,7 @@
 
 ### Contents
 | ** To learn about ...** | **Click the link below ...** |
-|---------------------|:-----------------------|
+|:---------------------|:-----------------------|
 | news for current patients | [News](#news) |
 | my psychiatric practice | [Practice](practice.md) |
 | policies for patients | [Policies](policies.md) |
@@ -26,4 +26,4 @@ I **never** close for bad weather.
 | **Fax** | 410 337 8084|
 | **Address** | 101 E Chesapeake Ave, Suite 401, Towson, MD 21286|
 | **Skype** | patbarta |
-| **Website** | http://www.patrickbarta.com |
+| **Website** | https://www.patrickbarta.com |
