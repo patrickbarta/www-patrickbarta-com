@@ -31,7 +31,7 @@
 ## Payment accepted
 
 ## HMO coverage
-I am not a member of any HMO network. You must go to one of the providers in their network to get reimbursed for mental health services.
+I am not a member of any HMO network. You must go to one of the providers in their network to be reimbursed for any mental health services.
 
 ## PPO coverage
 
@@ -43,3 +43,10 @@ I am not a member of any HMO network. You must go to one of the providers in the
 I do not participate with Medicaid and they will not pay you anything for my services.
 
 ## Privacy
+My ![](./media/hipaa.pdf "privacy practices") document details my privacy practices.  In general, I believe that mental health records need to be even more private than most other medical records. I do my best to keep them so.
+I do take notes on a laptop. All patient information is stored in a locked file cabinet, a secured server, or on a completely encrypted laptop. If my laptop is lost or stolen, none of your private information will be revealed.
+
+Unless you are a minor (in which case your parent or guardian is in charge of privacy issues and records), I will not talk to **anyone else** (this includes other family members) about your case unless you have given me permission.
+I will speak to your insurance company if needed, but I will not release detailed records without your consent. If someone such as a relative calls me, I will call you first before discussing your case with them unless you have previously given me permission.
+
+You should know though, that there are certain situations where these rules don't apply. If you are in an health-threatening situation (such as being in an emergency room), I will discuss whatever aspects of your case I think are necessary so that other doctors can take care of you. If I believe (or someone credible, such as a partner, tells me) that you are in clear and imminent danger of harming yourself or someone else, I will take action to make sure that you and they are protected. Finally, state laws in Maryland require that I disclose your information to the proper authorities if I believe that you have abused a child.
