@@ -1,17 +1,18 @@
 # Patrick Barta, MD, PhD - www.patrickbarta.com
 
 ### Contents
-| **Click the link below ...** | ** To learn about ...** |
+| ** To learn about ...** | **Click the link below ...** |
 |---------------------|:-----------------------|
-| [News](#news) | news for current patients|
-| [Practice](practice.md) | my psychiatric practice |
-| [Policies](policies.md) | policies for patients |
-| [Conditions](conditions.md) | mental health conditions |
-| [Treatments](treatments.md) | treatments I offer |
-| [Resources](resources.md) | mental health treatment resources |
-| [Contact information](#contact-information) | how to get in touch with me |
-| [Directions](directions.md) | how to get to my practice |
-| [About](about.md) | Dr. Barta |
+| news for current patients | [News](#news) |
+| my psychiatric practice | [Practice](practice.md) |
+| policies for patients | [Policies](policies.md) |
+| mental health conditions | [Conditions](conditions.md) |
+| treatments I offer | [Treatments](treatments.md) |
+| mental health treatment resources | [Resources](resources.md) |
+| how to get in touch with me | [Contact information](#contact-information) |
+| how to get to my practice | [Directions](directions.md) |
+| Dr. Barta | [About](about.md) |
+
 
 ##  News
 I **never** close for bad weather.
