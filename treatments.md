@@ -1,4 +1,4 @@
-# Treatments
+# Treatments offered
 
 | **Click link below ...** | **For information about ...** |
 |:---------------------|:-----------------------|
