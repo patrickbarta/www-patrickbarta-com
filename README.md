@@ -1,5 +1,4 @@
-# Patrick Barta, MD, PhD
-## www.patrickbarta.com
+# Patrick Barta, MD, PhD - www.patrickbarta.com
 
 ### Contents
 | **Click the link below ...** | ** To learn about ...** |
@@ -19,4 +18,3 @@ I **never** close for bad weather.
 
 ## Contact information
 
-## Directions
