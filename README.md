@@ -1,7 +1,7 @@
 # Patrick Barta, MD, PhD
 ## www.patrickbarta.com
 
-## Contents
+### Contents
 | **Click the link below ...** | ** To learn about ...** |
 |:---------------------|-----------------------:|
 | [News](#news) | news for current patients|
