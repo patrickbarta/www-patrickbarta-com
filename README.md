@@ -11,7 +11,7 @@
 | mental health treatment resources | [Resources](resources.md) |
 | how to get in touch with me | [Contact information](#contact-information) |
 | how to get to my practice | [Directions](directions.md) |
-| Dr. Barta | [About](about.md) |
+| me | [About](about.md) |
 
 
 ##  News
