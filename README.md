@@ -1,5 +1,5 @@
 # Patrick Barta, MD, Phd
-## patrickbarta.com
+## www.patrickbarta.com
 
 ## Contents
 | **Click the link below ...** | ** To learn about ...** |
