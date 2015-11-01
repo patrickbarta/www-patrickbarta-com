@@ -61,7 +61,7 @@ I am not a member of any HMO network. You must go to one of the providers in the
 
 [return to table of contents](#table-of-contents)
 
-## Medicaid
+## Medicaid coverage
 
 I do not participate with Medicaid and they will not pay you anything for my services.
 
