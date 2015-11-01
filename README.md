@@ -15,6 +15,7 @@
 | [About](about.md) | Dr. Barta |
 
 ##  News
+I **never** close for bad weather.
 
 ## Contact information
 
