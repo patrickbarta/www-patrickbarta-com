@@ -1,7 +1,9 @@
 # Title
 
 ## contents
-[Conflict of interest](#conflict-of-interest)
+* [Conflict of interest](#conflict-of-interest)
+* [foo](#foo)
+
 
 # Conflict of interest
 
