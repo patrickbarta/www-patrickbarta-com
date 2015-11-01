@@ -27,3 +27,5 @@ I **never** close for bad weather.
 | **Address** | [101 E Chesapeake Ave, Suite 401, Towson, MD 21286](https://www.google.com/maps/place/Patrick+Barta,+M.D,+Ph.D/@39.3994321,-76.6031367,17z/data=!3m1!4b1!4m2!3m1!1s0x89c80faf4b642ea1:0xce22fb75a9b69c65)|
 | **Skype** | patbarta |
 | **Website** | https://www.patrickbarta.com |
+
+<!-- toc -->
