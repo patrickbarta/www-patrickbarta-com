@@ -6,5 +6,6 @@
 * [Conditions](conditions.md)
 * [Treatments](treatments.md)
 * [Resources](resources.md)
+* [Directions](directions.md)
 * [About](about.md)
 
