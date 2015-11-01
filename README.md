@@ -1,6 +1,6 @@
 # Patrick Barta, MD, PhD - www.patrickbarta.com
 
-### Contents
+### Table of contents
 | ** To learn about ...** | **Click the link below ...** |
 |:---------------------|:-----------------------|
 | news for current patients | [News](#news) |
