@@ -31,6 +31,7 @@
 ## Payment accepted
 
 ## HMO coverage
+I am not a member of any HMO network. You must go to one of the providers in their network to get reimbursed for mental health services.
 
 ## PPO coverage
 
