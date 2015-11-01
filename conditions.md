@@ -1,4 +1,4 @@
-# Conditions
+# Conditions treated
 
 | **Click link below ...** | **For information about ...** |
 |:---------------------|:-----------------------|
