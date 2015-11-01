@@ -6,7 +6,7 @@
 | news for current patients | [News](#news) |
 | my psychiatric practice | [Practice](practice.md) |
 | policies for patients | [Policies](policies.md) |
-| mental health conditions | [Conditions](conditions.md) |
+| mental health conditions | [Conditions treated](conditions.md) |
 | treatments I offer | [Treatments](treatments.md) |
 | mental health treatment resources | [Resources](resources.md) |
 | how to get in touch with me | [Contact information](#contact-information) |
