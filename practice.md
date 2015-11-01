@@ -20,10 +20,10 @@
 
 
 ## Patients
-[return to top](contents.md)
+[return to top](#contents)
 
 ## Practice philosopy
-[return to top](contents.md)
+[return to top](#contents)
 
 ## Initial appointment
 
