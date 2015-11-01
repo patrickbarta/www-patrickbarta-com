@@ -28,4 +28,3 @@ I **never** close for bad weather.
 | **Skype** | patbarta |
 | **Website** | https://www.patrickbarta.com |
 
-<!-- toc -->
