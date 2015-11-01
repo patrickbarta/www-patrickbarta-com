@@ -1,3 +1,8 @@
+# Title
+
+## contents
+[Conflict of interest](#conflict-of-interest)
+
 # Conflict of interest
 
 I do not have any dealings with drug companies. I do not talk with drug company representatives. I do not accept anything from them such as samples or honorariae. None of my research is supported by drug companies.
