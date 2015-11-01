@@ -20,8 +20,10 @@
 
 
 ## Patients
+[return to top](contents.md)
 
 ## Practice philosopy
+
 
 ## Initial appointment
 
