@@ -1,4 +1,4 @@
-# Resources
+# Mental health resources
 
 | **Click link below ...** | **For information about ...** |
 |:---------------------|:-----------------------|
