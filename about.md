@@ -1,6 +1,6 @@
 # About me
 
 ### Contents
-| **Click link below ...** | **For information about ...** |
+| **For information about ...** | **Click link below ...** |
 |:---------------------|:-----------------------|
-| [foo](practice.md) | baz |
+| baz | [foo](practice.md) |
