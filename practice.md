@@ -12,10 +12,10 @@
 | forms of payment accepted | [Payment accepted](#payment-accepted) |
 | Health maintenance organization (HMO) coverage | [HMO coverage](#hmo-coverage) |
 | Preferred provider organization (PPO) coverage | [PPO coverage](#ppo-coverage) |
-| What your insurance will pay | [Usual, customary and reasonable fees](#usual-customary-and-reasonable-fees) |
+| what your insurance will pay | [Usual, customary and reasonable fees](#usual-customary-and-reasonable-fees) |
 | Medicare coverage | [Medicare](#medicare-coverage) |
 | Medicaid coverage | [Medicaid](#medicaid-coverage) |
-| Privacy protection | [Privacy](#privacy-practices) |
+| your privacy | [Privacy practices](#privacy-practices) |
 [return to homepage](README.md)
 
 
